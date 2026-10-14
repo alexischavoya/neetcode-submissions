@@ -1,3 +1,7 @@
+"""
+I think this is the intended implementation. If given during an interview they may not allow
+the solution i gave last submission since its a doubly linked list
+"""
 class Node:
     def __init__(self, v, n):
         self.v = v
